@@ -11,16 +11,14 @@
 
 <h3>For example:</h3> 
 
-- test {
-```
+```jsx
     let matriz1 = [[10,10],[10,10]]
     let matriz2 = [[20,20],[20,20]]
     console.log(somaMatrizes(matriz1, matriz2))
 ```
-}
 
-- Result = 
- ```
-[ [ 30, 30 ], [ 30, 30 ] ]
+- Result:
+ ```jsx
+// [ [ 30, 30 ], [ 30, 30 ] ]
 
 ```

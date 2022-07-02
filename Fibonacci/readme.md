@@ -9,14 +9,12 @@ Os 10 primeiros termos desta sequência são 0, 1, 1, 2, 3, 5, 8, 13, 21, 34.
 # 
 <h3>For example:</h3> 
 
-- test {
-```
+
+```jsx
     console.log(fibonacci(9))
     console.log(fibonacci(3))
-
-}
+    //- Result = 21; 1
 ```
-- Result = 21; 1
 
 # 
 

@@ -10,17 +10,15 @@
 
 <h3>For example:</h3>
 
-- Test {
-```
+```jsx
     const oficio = new Oficio(4, "Este é apenas um teste. Não se preocupe.");
 oficio.imprimir();
 
     const carta = new Carta("José", "Maria", "Oi, Maria! Aqui é o José");
 carta.imprimir();
 ```
-}
 
-- Result {
+- Result\:
 ```
 Número: 4
 Conteúdo: Este é apenas um teste. Não se preocupe.
@@ -28,11 +26,3 @@ Conteúdo: Este é apenas um teste. Não se preocupe.
 Remetente: José
 Destinatário: Maria
 Conteúdo: Oi, Maria! Aqui é o José
-<<<<<<< HEAD
-
-}
-# 
-=======
-```
-}
->>>>>>> 8ceb9cdc7a569224a6759a84d437195f449b4ff8
