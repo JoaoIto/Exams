@@ -12,8 +12,9 @@ function imprimeMatrizTabular(matriz) {
     console.log(string);
   }
 
+  console.log(imprimeMatrizTabular())
   /////////////////////////////////////////////////////////////////////////
-
+/*
   function somaMatrizes (matriz1, matriz2) {
     
     var list = [];
@@ -27,3 +28,5 @@ function imprimeMatrizTabular(matriz) {
     }
     return list
 }
+
+*/

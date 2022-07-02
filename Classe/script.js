@@ -31,3 +31,35 @@ class Carta extends Documento {
       console.log("Conteúdo:", this.conteudo);
   }
 }
+
+///////////////////////////////////////////////////////////////////////////
+
+class Smartphone {
+
+  fabricante;
+  marca;
+  modelo;
+  ship;
+  processador;
+  armazenamento;
+
+  constructor(modelo, processaodor){
+      this.modelo = modelo;
+      this.processador = processador;
+
+      definirProcessador();{
+      if(modelo === 1){
+          processador = "gigabyte";
+      };
+           }
+                };
+constructor(modelo, armazenamento){
+super(modelo);
+
+definirArmazenamento();{
+if(modelo === 1){
+    armazenamento === 64;
+};
+     };
+           };
+                  };

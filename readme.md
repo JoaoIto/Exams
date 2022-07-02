@@ -1,8 +1,3 @@
-# Estrutura de Dados
+# Estrutura de Dados / Lógica de Programação <img height="50" src="./img/idea.png">
 
-- I study em IFTO - Federal Institute for Tocantins at Dianópolis-TO Brazil. And want add a files to workouts in JavaScript for my IT technician...
-
-I really Hope you like it :)
-
-
-
+**Este são códigos, caracterizados por pequenos trechos de JS em lógica de programação e estrutura de dados, que ajudam muito a entender conceitos mais soft ou hard para a linguagem. Desde simples funções, ou até funcionamentos e operação em problemas!**
