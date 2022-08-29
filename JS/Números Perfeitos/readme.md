@@ -4,4 +4,4 @@
 
 - Construa uma função chamada numeroPerfeito que receba como parâmetro um número natural n. Sua função deve retornar true se n for um número perfeito, ou false caso contrário.
 
-# 
+---
